@@ -1,0 +1,3 @@
+Alternatively, you can directly add the Authtoken to your ngrok.yml configuration file. By default this file is located at ~/.ngrok2/ngrok.yml.
+
+# in ngrok.ymlauthtoken: 23dWiPIi57zYcJDqS37Thw85gQI_2JgC2iqBAZvXhPQbF9WbT
